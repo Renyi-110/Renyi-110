@@ -4,7 +4,7 @@
 
 I am a 1st year undergraduate engineering student at McMaster University. Into innovating existing structures, robotics, hiking, and baking! 
 
-Software wise I'm currently exploring Java & Python.
+Software wise I'm currently exploring **Java & Python**.
 
 
 Feel free to connect with me~
